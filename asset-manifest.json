@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ez-react-form-validator-example/static/css/main.aa5e6820.chunk.css",
+    "main.js": "/ez-react-form-validator-example/static/js/main.2b333677.chunk.js",
+    "main.js.map": "/ez-react-form-validator-example/static/js/main.2b333677.chunk.js.map",
+    "runtime-main.js": "/ez-react-form-validator-example/static/js/runtime-main.7e7c6e43.js",
+    "runtime-main.js.map": "/ez-react-form-validator-example/static/js/runtime-main.7e7c6e43.js.map",
+    "static/js/2.0fdc9a8a.chunk.js": "/ez-react-form-validator-example/static/js/2.0fdc9a8a.chunk.js",
+    "static/js/2.0fdc9a8a.chunk.js.map": "/ez-react-form-validator-example/static/js/2.0fdc9a8a.chunk.js.map",
+    "index.html": "/ez-react-form-validator-example/index.html",
+    "precache-manifest.2618b40869d47d52fc3ff9671ec7d83c.js": "/ez-react-form-validator-example/precache-manifest.2618b40869d47d52fc3ff9671ec7d83c.js",
+    "service-worker.js": "/ez-react-form-validator-example/service-worker.js",
+    "static/css/main.aa5e6820.chunk.css.map": "/ez-react-form-validator-example/static/css/main.aa5e6820.chunk.css.map",
+    "static/js/2.0fdc9a8a.chunk.js.LICENSE.txt": "/ez-react-form-validator-example/static/js/2.0fdc9a8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e7c6e43.js",
+    "static/js/2.0fdc9a8a.chunk.js",
+    "static/css/main.aa5e6820.chunk.css",
+    "static/js/main.2b333677.chunk.js"
+  ]
+}

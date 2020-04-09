@@ -1,0 +1,9 @@
+{
+  "short_name": "EZ React Form Validator Example (typescript)",
+  "name": "EZ React Form Validator Example (typescript)",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
